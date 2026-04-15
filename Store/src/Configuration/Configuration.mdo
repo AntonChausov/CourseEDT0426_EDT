@@ -47,5 +47,6 @@
   <catalogs>Catalog.Справочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.Реализация</documents>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
 </mdclass:Configuration>
