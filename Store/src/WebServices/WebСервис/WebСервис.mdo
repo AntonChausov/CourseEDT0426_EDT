@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:WebService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="59036493-6dec-498c-830b-d863c081791f">
+  <name>WebСервис</name>
+  <synonym>
+    <key>ru</key>
+    <value>Web сервис</value>
+  </synonym>
+  <namespace>АААА</namespace>
+  <descriptorFileName>ws.1cws</descriptorFileName>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+</mdclass:WebService>

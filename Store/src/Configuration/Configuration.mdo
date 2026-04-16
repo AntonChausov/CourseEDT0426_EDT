@@ -41,6 +41,8 @@
   </languages>
   <roles>Role.ПолныеПрава</roles>
   <roles>Role.Роль</roles>
+  <webServices>WebService.WebСервис</webServices>
+  <httpServices>HTTPService.HTTPСервис</httpServices>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
